@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Transform: AWS::Serverless-2016-10-31
-Description: GIG Economy !! This my first CICD Deployment - Version 1.1(GIT Update).
+Description: GIG Economy !! This my first CICD Deployment - Version 1.2(GIT Update).
 
 Globals:
   Function:
