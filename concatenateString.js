@@ -5,7 +5,7 @@ exports.handler = async (event) => {
         body: JSON.stringify({
             firstName: firstName,
             lastName: lastName,
-            result: firstName + " " +lastName
+            result: "Name : " + firstName + " " +lastName
         })
     }
 }
